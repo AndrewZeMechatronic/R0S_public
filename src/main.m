@@ -1,5 +1,6 @@
 clc,clear
 
+clc
 
 hold(gca,"on")
 
