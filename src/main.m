@@ -1,7 +1,5 @@
 clc,clear
 
-clc
-
 hold(gca,"on")
 
 addpath("main_classes\");
